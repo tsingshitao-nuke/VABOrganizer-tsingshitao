@@ -1,0 +1,678 @@
+[
+ {
+  "profile": "srf",
+  "parts": 1655,
+  "mods": 79,
+  "declared_diameter_m": 0.1,
+  "top_mods": [
+   [
+    "BDArmoryExtended",
+    107
+   ],
+   [
+    "SXT",
+    104
+   ],
+   [
+    "BDArmory",
+    89
+   ],
+   [
+    "MagicSmokeIndustries",
+    77
+   ]
+  ],
+  "sample_parts": [
+   "GrantOil_1",
+   "GrantOil_2",
+   "GrantOil_3"
+  ]
+ },
+ {
+  "profile": "size1",
+  "parts": 505,
+  "mods": 62,
+  "declared_diameter_m": 1.25,
+  "top_mods": [
+   [
+    "WildBlueIndustries",
+    51
+   ],
+   [
+    "AirplanePlus",
+    44
+   ],
+   [
+    "KerbetrotterLtd",
+    35
+   ],
+   [
+    "SXT",
+    34
+   ]
+  ],
+  "sample_parts": [
+   "AcceptOil_Mk1",
+   "AcceptOil_Mk1A10",
+   "mk1intake"
+  ]
+ },
+ {
+  "profile": "size0",
+  "parts": 343,
+  "mods": 45,
+  "declared_diameter_m": 0.625,
+  "top_mods": [
+   [
+    "MagicSmokeIndustries",
+    74
+   ],
+   [
+    "TM5Marine",
+    50
+   ],
+   [
+    "SXT",
+    31
+   ],
+   [
+    "ReStockPlus",
+    24
+   ]
+  ],
+  "sample_parts": [
+   "GrantOil_1",
+   "GrantOil_2",
+   "GrantOil_3"
+  ]
+ },
+ {
+  "profile": "size2",
+  "parts": 236,
+  "mods": 33,
+  "declared_diameter_m": 2.5,
+  "top_mods": [
+   [
+    "SXT",
+    50
+   ],
+   [
+    "KeridianDynamics",
+    26
+   ],
+   [
+    "NearFutureAeronautics",
+    18
+   ],
+   [
+    "AirplanePlus",
+    17
+   ]
+  ],
+  "sample_parts": [
+   "airbuscockpit",
+   "b29cockpit",
+   "concordecockpit"
+  ]
+ },
+ {
+  "profile": "mk2",
+  "parts": 120,
+  "mods": 12,
+  "declared_diameter_m": 2.4,
+  "top_mods": [
+   [
+    "Mk2Expansion",
+    67
+   ],
+   [
+    "QuizTechAeroContinued",
+    17
+   ],
+   [
+    "AoATech",
+    8
+   ],
+   [
+    "SXT",
+    8
+   ]
+  ],
+  "sample_parts": [
+   "AcceptOil_Mk2",
+   "AcceptOil_Mk2B2",
+   "144cockpit"
+  ]
+ },
+ {
+  "profile": "size1p5",
+  "parts": 103,
+  "mods": 15,
+  "declared_diameter_m": 1.875,
+  "top_mods": [
+   [
+    "ReStockPlus",
+    35
+   ],
+   [
+    "SquadExpansion",
+    24
+   ],
+   [
+    "AirplanePlus",
+    13
+   ],
+   [
+    "NeistAir",
+    8
+   ]
+  ],
+  "sample_parts": [
+   "bombardiercockpit",
+   "s1p5booma",
+   "s1p5boomashort"
+  ]
+ },
+ {
+  "profile": "size3",
+  "parts": 100,
+  "mods": 18,
+  "declared_diameter_m": 3.75,
+  "top_mods": [
+   [
+    "SXT",
+    30
+   ],
+   [
+    "KeridianDynamics",
+    14
+   ],
+   [
+    "ReStockPlus",
+    14
+   ],
+   [
+    "NearFutureSpacecraft",
+    8
+   ]
+  ],
+  "sample_parts": [
+   "ehiNimitzBridge",
+   "EHI_cargotail3",
+   "EHI_cargotail375"
+  ]
+ },
+ {
+  "profile": "size4",
+  "parts": 81,
+  "mods": 8,
+  "declared_diameter_m": 5.0,
+  "top_mods": [
+   [
+    "NearFutureLaunchVehicles",
+    34
+   ],
+   [
+    "SXT",
+    15
+   ],
+   [
+    "ReStockPlus",
+    12
+   ],
+   [
+    "SquadExpansion",
+    9
+   ]
+  ],
+  "sample_parts": [
+   "kpa155Mk51",
+   "largeBuoyancy",
+   "InlineBallute500"
+  ]
+ },
+ {
+  "profile": "Size3",
+  "parts": 80,
+  "mods": 4,
+  "declared_diameter_m": 3.75,
+  "top_mods": [
+   [
+    "SMI_FullSizedMarine",
+    47
+   ],
+   [
+    "TM5Marine",
+    24
+   ],
+   [
+    "LShipParts",
+    7
+   ],
+   [
+    "Eskandare_Heavy_Industries",
+    2
+   ]
+  ],
+  "sample_parts": [
+   "EHInimitz",
+   "EHInimitzRadar",
+   "carriermbow"
+  ]
+ },
+ {
+  "profile": "mk3",
+  "parts": 67,
+  "mods": 8,
+  "declared_diameter_m": 3.5,
+  "top_mods": [
+   [
+    "Mk3Expansion",
+    51
+   ],
+   [
+    "PlanetaryBaseInc",
+    7
+   ],
+   [
+    "SXT",
+    3
+   ],
+   [
+    "KIS",
+    2
+   ]
+  ],
+  "sample_parts": [
+   "mk3galaxy",
+   "NASACRAWLERBase",
+   "KIS.Container5"
+  ]
+ },
+ {
+  "profile": "PlanetaryBase",
+  "parts": 40,
+  "mods": 1,
+  "declared_diameter_m": null,
+  "top_mods": [
+   [
+    "PlanetaryBaseInc",
+    40
+   ]
+  ],
+  "sample_parts": [
+   "KKAOSS_INV_Tank",
+   "KKAOSS_INV_Tank_big",
+   "KKAOSS_INV_FuelTank_small_2"
+  ]
+ },
+ {
+  "profile": "size1.5",
+  "parts": 32,
+  "mods": 1,
+  "declared_diameter_m": null,
+  "top_mods": [
+   [
+    "Orion",
+    32
+   ]
+  ],
+  "sample_parts": [
+   "SPO_CommandCapsule",
+   "SPO_LargeMag",
+   "SPO_MedMag"
+  ]
+ },
+ {
+  "profile": "size6",
+  "parts": 26,
+  "mods": 1,
+  "declared_diameter_m": 7.5,
+  "top_mods": [
+   [
+    "NearFutureLaunchVehicles",
+    26
+   ]
+  ],
+  "sample_parts": [
+   "nflv-drone-core-75-1",
+   "nflv-decoupler-75-1",
+   "nflv-separator-75-1"
+  ]
+ },
+ {
+  "profile": "mk4",
+  "parts": 21,
+  "mods": 1,
+  "declared_diameter_m": 4.75,
+  "top_mods": [
+   [
+    "MarkIVSystem",
+    21
+   ]
+  ],
+  "sample_parts": [
+   "mk4adapter-1",
+   "mk4adapter-2",
+   "mk4adapter-3"
+  ]
+ },
+ {
+  "profile": "vehicle",
+  "parts": 10,
+  "mods": 1,
+  "declared_diameter_m": null,
+  "top_mods": [
+   [
+    "Autogarage",
+    10
+   ]
+  ],
+  "sample_parts": [
+   "944Turbo",
+   "BMWGTR",
+   "Corvette84Body"
+  ]
+ },
+ {
+  "profile": "Container",
+  "parts": 10,
+  "mods": 1,
+  "declared_diameter_m": null,
+  "top_mods": [
+   [
+    "PlanetaryBaseInc",
+    10
+   ]
+  ],
+  "sample_parts": [
+   "KKAOSS_Battery_Tank",
+   "KKAOSS_Fuelcell_Tank",
+   "KKAOSS_Liquid_Fuel_Tank"
+  ]
+ },
+ {
+  "profile": "mk3s1",
+  "parts": 9,
+  "mods": 1,
+  "declared_diameter_m": null,
+  "top_mods": [
+   [
+    "AirplanePlus",
+    9
+   ]
+  ],
+  "sample_parts": [
+   "cessnacabin",
+   "cessnacockpit",
+   "mk3s1-s1"
+  ]
+ },
+ {
+  "profile": "mk3s1p5",
+  "parts": 7,
+  "mods": 1,
+  "declared_diameter_m": null,
+  "top_mods": [
+   [
+    "AirplanePlus",
+    7
+   ]
+  ],
+  "sample_parts": [
+   "hueycockpit",
+   "mk3s1p5-mk3s1",
+   "mk3s1p5-s1p5"
+  ]
+ },
+ {
+  "profile": "CWA_vehicle",
+  "parts": 7,
+  "mods": 1,
+  "declared_diameter_m": null,
+  "top_mods": [
+   [
+    "ColdWarAerospace",
+    7
+   ]
+  ],
+  "sample_parts": [
+   "CUCV",
+   "HMMWV",
+   "HMMWV_wagon"
+  ]
+ },
+ {
+  "profile": "size2p5",
+  "parts": 7,
+  "mods": 1,
+  "declared_diameter_m": 3.125,
+  "top_mods": [
+   [
+    "NeistAir",
+    7
+   ]
+  ],
+  "sample_parts": [
+   "31A35",
+   "31DC10",
+   "31PD"
+  ]
+ },
+ {
+  "profile": "mk3s0",
+  "parts": 6,
+  "mods": 1,
+  "declared_diameter_m": null,
+  "top_mods": [
+   [
+    "AirplanePlus",
+    6
+   ]
+  ],
+  "sample_parts": [
+   "mk3s0-s0",
+   "mk3s0",
+   "mk3s0booma"
+  ]
+ },
+ {
+  "profile": "size5",
+  "parts": 5,
+  "mods": 2,
+  "declared_diameter_m": 6.25,
+  "top_mods": [
+   [
+    "SXT",
+    4
+   ],
+   [
+    "Orion",
+    1
+   ]
+  ],
+  "sample_parts": [
+   "SPO_Adapter5_Std",
+   "SXTK1BaseLarge",
+   "SXTKDBTsar3"
+  ]
+ },
+ {
+  "profile": "x20",
+  "parts": 5,
+  "mods": 1,
+  "declared_diameter_m": null,
+  "top_mods": [
+   [
+    "X-20-Moroz",
+    5
+   ]
+  ],
+  "sample_parts": [
+   "X20Adapter125",
+   "X20_Butt_Adapter125",
+   "X20Adapter"
+  ]
+ },
+ {
+  "profile": "mk1",
+  "parts": 4,
+  "mods": 2,
+  "declared_diameter_m": 1.22,
+  "top_mods": [
+   [
+    "AoATech",
+    3
+   ],
+   [
+    "AirplanePlus",
+    1
+   ]
+  ],
+  "sample_parts": [
+   "mk1DroneCore",
+   "AoA.BroncoCpit",
+   "AoA.FlyPit"
+  ]
+ },
+ {
+  "profile": "procedural",
+  "parts": 3,
+  "mods": 1,
+  "declared_diameter_m": 10.0,
+  "top_mods": [
+   [
+    "RealChute",
+    3
+   ]
+  ],
+  "sample_parts": [
+   "RC_cone",
+   "RC_cone_double",
+   "RC_stack"
+  ]
+ },
+ {
+  "profile": "surf",
+  "parts": 2,
+  "mods": 1,
+  "declared_diameter_m": null,
+  "top_mods": [
+   [
+    "Eskandare_Heavy_Industries",
+    2
+   ]
+  ],
+  "sample_parts": [
+   "KRXHeronEngine",
+   "KRX_KingEngine"
+  ]
+ },
+ {
+  "profile": "zDEPRECATED",
+  "parts": 2,
+  "mods": 1,
+  "declared_diameter_m": null,
+  "top_mods": [
+   [
+    "PlanetaryBaseInc",
+    2
+   ]
+  ],
+  "sample_parts": [
+   "KKAOSS_INV_FuelTank_small",
+   "KKAOSS_INV_FuelTank"
+  ]
+ },
+ {
+  "profile": "none",
+  "parts": 2,
+  "mods": 1,
+  "declared_diameter_m": null,
+  "top_mods": [
+   [
+    "SXT",
+    2
+   ]
+  ],
+  "sample_parts": [
+   "SXT-TMA1new",
+   "SXTdockingPortVeryLarge"
+  ]
+ },
+ {
+  "profile": "Size1",
+  "parts": 1,
+  "mods": 1,
+  "declared_diameter_m": 1.25,
+  "top_mods": [
+   [
+    "BDArmoryExtended",
+    1
+   ]
+  ],
+  "sample_parts": [
+   "baha57mmTurret"
+  ]
+ },
+ {
+  "profile": "Size0",
+  "parts": 1,
+  "mods": 1,
+  "declared_diameter_m": 0.625,
+  "top_mods": [
+   [
+    "BDArmoryExtended",
+    1
+   ]
+  ],
+  "sample_parts": [
+   "bahaAPS"
+  ]
+ },
+ {
+  "profile": "CWA_size1mk3",
+  "parts": 1,
+  "mods": 1,
+  "declared_diameter_m": null,
+  "top_mods": [
+   [
+    "ColdWarAerospace",
+    1
+   ]
+  ],
+  "sample_parts": [
+   "Size1Mk3Flat_VTOL-H"
+  ]
+ },
+ {
+  "profile": "size 2",
+  "parts": 1,
+  "mods": 1,
+  "declared_diameter_m": null,
+  "top_mods": [
+   [
+    "Mk3Expansion",
+    1
+   ]
+  ],
+  "sample_parts": [
+   "M3X_Turbofan"
+  ]
+ },
+ {
+  "profile": "mk1p5",
+  "parts": 1,
+  "mods": 1,
+  "declared_diameter_m": null,
+  "top_mods": [
+   [
+    "ZZZ_MyPatches",
+    1
+   ]
+  ],
+  "sample_parts": [
+   "Mk1.5_FlatRamp"
+  ]
+ }
+]

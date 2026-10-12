@@ -1,0 +1,844 @@
+[
+ {
+  "token": "srf",
+  "count": 2342,
+  "mods": 89,
+  "top": [
+   [
+    "Squad",
+    237
+   ],
+   [
+    "BDArmoryExtended",
+    138
+   ],
+   [
+    "SXT",
+    109
+   ]
+  ]
+ },
+ {
+  "token": "size1",
+  "count": 825,
+  "mods": 68,
+  "top": [
+   [
+    "Squad",
+    123
+   ],
+   [
+    "MunksFixes",
+    58
+   ],
+   [
+    "WildBlueIndustries",
+    51
+   ]
+  ]
+ },
+ {
+  "token": "size0",
+  "count": 549,
+  "mods": 56,
+  "top": [
+   [
+    "MagicSmokeIndustries",
+    74
+   ],
+   [
+    "Squad",
+    64
+   ],
+   [
+    "SMI_MissilesLaunchers",
+    52
+   ]
+  ]
+ },
+ {
+  "token": "size2",
+  "count": 385,
+  "mods": 40,
+  "top": [
+   [
+    "Squad",
+    66
+   ],
+   [
+    "SXT",
+    50
+   ],
+   [
+    "SM_AFVs",
+    31
+   ]
+  ]
+ },
+ {
+  "token": "Size3",
+  "count": 229,
+  "mods": 5,
+  "top": [
+   [
+    "LShipParts",
+    118
+   ],
+   [
+    "SMI_FullSizedMarine",
+    75
+   ],
+   [
+    "TM5Marine",
+    24
+   ]
+  ]
+ },
+ {
+  "token": "size1p5",
+  "count": 169,
+  "mods": 19,
+  "top": [
+   [
+    "ReStockPlus",
+    36
+   ],
+   [
+    "SquadExpansion",
+    33
+   ],
+   [
+    "MunksFixes",
+    31
+   ]
+  ]
+ },
+ {
+  "token": "size3",
+  "count": 160,
+  "mods": 24,
+  "top": [
+   [
+    "SXT",
+    31
+   ],
+   [
+    "Squad",
+    15
+   ],
+   [
+    "KeridianDynamics",
+    14
+   ]
+  ]
+ },
+ {
+  "token": "mk2",
+  "count": 151,
+  "mods": 17,
+  "top": [
+   [
+    "Mk2Expansion",
+    67
+   ],
+   [
+    "Squad",
+    18
+   ],
+   [
+    "QuizTechAeroContinued",
+    17
+   ]
+  ]
+ },
+ {
+  "token": "size4",
+  "count": 101,
+  "mods": 13,
+  "top": [
+   [
+    "NearFutureLaunchVehicles",
+    34
+   ],
+   [
+    "SXT",
+    15
+   ],
+   [
+    "SquadExpansion",
+    13
+   ]
+  ]
+ },
+ {
+  "token": "mk3",
+  "count": 91,
+  "mods": 12,
+  "top": [
+   [
+    "Mk3Expansion",
+    51
+   ],
+   [
+    "Squad",
+    18
+   ],
+   [
+    "PlanetaryBaseInc",
+    7
+   ]
+  ]
+ },
+ {
+  "token": "PlanetaryBase",
+  "count": 67,
+  "mods": 3,
+  "top": [
+   [
+    "PlanetaryBaseInc",
+    63
+   ],
+   [
+    "MunksFixes",
+    2
+   ],
+   [
+    "VABOrganizer-Sheepdog",
+    2
+   ]
+  ]
+ },
+ {
+  "token": "Container",
+  "count": 63,
+  "mods": 3,
+  "top": [
+   [
+    "PlanetaryBaseInc",
+    57
+   ],
+   [
+    "MunksFixes",
+    4
+   ],
+   [
+    "VABOrganizer-Sheepdog",
+    2
+   ]
+  ]
+ },
+ {
+  "token": "size00",
+  "count": 48,
+  "mods": 3,
+  "top": [
+   [
+    "MunksFixes",
+    34
+   ],
+   [
+    "ZZZ_MyPatches",
+    10
+   ],
+   [
+    "VABOrganizer-Sheepdog",
+    4
+   ]
+  ]
+ },
+ {
+  "token": "size6",
+  "count": 38,
+  "mods": 2,
+  "top": [
+   [
+    "NearFutureLaunchVehicles",
+    26
+   ],
+   [
+    "VABOrganizer-Sheepdog",
+    12
+   ]
+  ]
+ },
+ {
+  "token": "size1.5",
+  "count": 32,
+  "mods": 1,
+  "top": [
+   [
+    "Orion",
+    32
+   ]
+  ]
+ },
+ {
+  "token": "mk4",
+  "count": 21,
+  "mods": 1,
+  "top": [
+   [
+    "MarkIVSystem",
+    21
+   ]
+  ]
+ },
+ {
+  "token": "CWA_size1mk3",
+  "count": 17,
+  "mods": 1,
+  "top": [
+   [
+    "ColdWarAerospace",
+    17
+   ]
+  ]
+ },
+ {
+  "token": "size2p5",
+  "count": 16,
+  "mods": 3,
+  "top": [
+   [
+    "NeistAir",
+    14
+   ],
+   [
+    "VABOrganizer-Sheepdog",
+    1
+   ],
+   [
+    "ZZZ_MyPatches",
+    1
+   ]
+  ]
+ },
+ {
+  "token": "size8",
+  "count": 15,
+  "mods": 2,
+  "top": [
+   [
+    "VABOrganizer-Sheepdog",
+    10
+   ],
+   [
+    "MunksFixes",
+    5
+   ]
+  ]
+ },
+ {
+  "token": "size0p5",
+  "count": 14,
+  "mods": 4,
+  "top": [
+   [
+    "MunksFixes",
+    5
+   ],
+   [
+    "JanitorsCloset",
+    4
+   ],
+   [
+    "ZZZ_MyPatches",
+    3
+   ]
+  ]
+ },
+ {
+  "token": "vehicle",
+  "count": 12,
+  "mods": 2,
+  "top": [
+   [
+    "Autogarage",
+    10
+   ],
+   [
+    "ZZZ_MyPatches",
+    2
+   ]
+  ]
+ },
+ {
+  "token": "mk3s1",
+  "count": 10,
+  "mods": 1,
+  "top": [
+   [
+    "AirplanePlus",
+    10
+   ]
+  ]
+ },
+ {
+  "token": "CWA_size1p5mk3",
+  "count": 9,
+  "mods": 1,
+  "top": [
+   [
+    "ColdWarAerospace",
+    9
+   ]
+  ]
+ },
+ {
+  "token": "CWA_size2p5",
+  "count": 9,
+  "mods": 1,
+  "top": [
+   [
+    "ColdWarAerospace",
+    9
+   ]
+  ]
+ },
+ {
+  "token": "mk1",
+  "count": 8,
+  "mods": 3,
+  "top": [
+   [
+    "ZZZ_MyPatches",
+    4
+   ],
+   [
+    "AoATech",
+    3
+   ],
+   [
+    "AirplanePlus",
+    1
+   ]
+  ]
+ },
+ {
+  "token": "CWA_vehicle",
+  "count": 7,
+  "mods": 1,
+  "top": [
+   [
+    "ColdWarAerospace",
+    7
+   ]
+  ]
+ },
+ {
+  "token": "mk3s1p5",
+  "count": 7,
+  "mods": 1,
+  "top": [
+   [
+    "AirplanePlus",
+    7
+   ]
+  ]
+ },
+ {
+  "token": "Airship",
+  "count": 6,
+  "mods": 3,
+  "top": [
+   [
+    "HLAirshipsCore",
+    4
+   ],
+   [
+    "ProceduralAirships",
+    1
+   ],
+   [
+    "ZZZ_MyPatches",
+    1
+   ]
+  ]
+ },
+ {
+  "token": "mk3s0",
+  "count": 6,
+  "mods": 1,
+  "top": [
+   [
+    "AirplanePlus",
+    6
+   ]
+  ]
+ },
+ {
+  "token": "size5",
+  "count": 6,
+  "mods": 3,
+  "top": [
+   [
+    "SXT",
+    4
+   ],
+   [
+    "Orion",
+    1
+   ],
+   [
+    "TundraSpaceCenter",
+    1
+   ]
+  ]
+ },
+ {
+  "token": "mk1p5",
+  "count": 5,
+  "mods": 1,
+  "top": [
+   [
+    "ZZZ_MyPatches",
+    5
+   ]
+  ]
+ },
+ {
+  "token": "x20",
+  "count": 5,
+  "mods": 1,
+  "top": [
+   [
+    "X-20-Moroz",
+    5
+   ]
+  ]
+ },
+ {
+  "token": "CWA_mk2h",
+  "count": 4,
+  "mods": 1,
+  "top": [
+   [
+    "ColdWarAerospace",
+    4
+   ]
+  ]
+ },
+ {
+  "token": "procedural",
+  "count": 4,
+  "mods": 2,
+  "top": [
+   [
+    "RealChute",
+    3
+   ],
+   [
+    "ZZZ_MyPatches",
+    1
+   ]
+  ]
+ },
+ {
+  "token": "CWA_radial",
+  "count": 3,
+  "mods": 1,
+  "top": [
+   [
+    "ColdWarAerospace",
+    3
+   ]
+  ]
+ },
+ {
+  "token": "hextruss",
+  "count": 3,
+  "mods": 1,
+  "top": [
+   [
+    "MunksFixes",
+    3
+   ]
+  ]
+ },
+ {
+  "token": "mk2h",
+  "count": 3,
+  "mods": 1,
+  "top": [
+   [
+    "ZZZ_MyPatches",
+    3
+   ]
+  ]
+ },
+ {
+  "token": "size12",
+  "count": 3,
+  "mods": 1,
+  "top": [
+   [
+    "VABOrganizer-Sheepdog",
+    3
+   ]
+  ]
+ },
+ {
+  "token": "size1p2",
+  "count": 3,
+  "mods": 1,
+  "top": [
+   [
+    "VABOrganizer-Sheepdog",
+    3
+   ]
+  ]
+ },
+ {
+  "token": "deployable",
+  "count": 2,
+  "mods": 1,
+  "top": [
+   [
+    "ZZZ_MyPatches",
+    2
+   ]
+  ]
+ },
+ {
+  "token": "endurance",
+  "count": 2,
+  "mods": 1,
+  "top": [
+   [
+    "MunksFixes",
+    2
+   ]
+  ]
+ },
+ {
+  "token": "mk0",
+  "count": 2,
+  "mods": 1,
+  "top": [
+   [
+    "ZZZ_MyPatches",
+    2
+   ]
+  ]
+ },
+ {
+  "token": "mk3saddle",
+  "count": 2,
+  "mods": 1,
+  "top": [
+   [
+    "ZZZ_MyPatches",
+    2
+   ]
+  ]
+ },
+ {
+  "token": "none",
+  "count": 2,
+  "mods": 1,
+  "top": [
+   [
+    "SXT",
+    2
+   ]
+  ]
+ },
+ {
+  "token": "size16",
+  "count": 2,
+  "mods": 1,
+  "top": [
+   [
+    "VABOrganizer-Sheepdog",
+    2
+   ]
+  ]
+ },
+ {
+  "token": "size4p5",
+  "count": 2,
+  "mods": 1,
+  "top": [
+   [
+    "VABOrganizer-Sheepdog",
+    2
+   ]
+  ]
+ },
+ {
+  "token": "size8p8",
+  "count": 2,
+  "mods": 1,
+  "top": [
+   [
+    "VABOrganizer-Sheepdog",
+    2
+   ]
+  ]
+ },
+ {
+  "token": "surf",
+  "count": 2,
+  "mods": 1,
+  "top": [
+   [
+    "Eskandare_Heavy_Industries",
+    2
+   ]
+  ]
+ },
+ {
+  "token": "zDEPRECATED",
+  "count": 2,
+  "mods": 1,
+  "top": [
+   [
+    "PlanetaryBaseInc",
+    2
+   ]
+  ]
+ },
+ {
+  "token": "Airship_Hecto",
+  "count": 1,
+  "mods": 1,
+  "top": [
+   [
+    "HLAirshipsCore",
+    1
+   ]
+  ]
+ },
+ {
+  "token": "Airship_K101",
+  "count": 1,
+  "mods": 1,
+  "top": [
+   [
+    "HLAirshipsCore",
+    1
+   ]
+  ]
+ },
+ {
+  "token": "Airship_Octo",
+  "count": 1,
+  "mods": 1,
+  "top": [
+   [
+    "HLAirshipsCore",
+    1
+   ]
+  ]
+ },
+ {
+  "token": "CircuitBoard",
+  "count": 1,
+  "mods": 1,
+  "top": [
+   [
+    "VABOrganizer-Sheepdog",
+    1
+   ]
+  ]
+ },
+ {
+  "token": "PlanetaryBaseGarage",
+  "count": 1,
+  "mods": 1,
+  "top": [
+   [
+    "VABOrganizer-Sheepdog",
+    1
+   ]
+  ]
+ },
+ {
+  "token": "Size0",
+  "count": 1,
+  "mods": 1,
+  "top": [
+   [
+    "BDArmoryExtended",
+    1
+   ]
+  ]
+ },
+ {
+  "token": "Size1",
+  "count": 1,
+  "mods": 1,
+  "top": [
+   [
+    "BDArmoryExtended",
+    1
+   ]
+  ]
+ },
+ {
+  "token": "eva",
+  "count": 1,
+  "mods": 1,
+  "top": [
+   [
+    "ZZZ_MyPatches",
+    1
+   ]
+  ]
+ },
+ {
+  "token": "size 2",
+  "count": 1,
+  "mods": 1,
+  "top": [
+   [
+    "Mk3Expansion",
+    1
+   ]
+  ]
+ },
+ {
+  "token": "size1h",
+  "count": 1,
+  "mods": 1,
+  "top": [
+   [
+    "ZZZ_MyPatches",
+    1
+   ]
+  ]
+ },
+ {
+  "token": "size3p5",
+  "count": 1,
+  "mods": 1,
+  "top": [
+   [
+    "VABOrganizer-Sheepdog",
+    1
+   ]
+  ]
+ },
+ {
+  "token": "size6p5",
+  "count": 1,
+  "mods": 1,
+  "top": [
+   [
+    "VABOrganizer-Sheepdog",
+    1
+   ]
+  ]
+ },
+ {
+  "token": "strut",
+  "count": 1,
+  "mods": 1,
+  "top": [
+   [
+    "ZZZ_MyPatches",
+    1
+   ]
+  ]
+ }
+]

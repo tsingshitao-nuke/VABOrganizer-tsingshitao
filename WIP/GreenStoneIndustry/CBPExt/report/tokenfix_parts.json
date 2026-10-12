@@ -1,0 +1,1080 @@
+{
+ "baha57mmTurret": [
+  [
+   "BDArmoryExtended",
+   "srf, Size1",
+   [
+    "srf",
+    "Size1"
+   ]
+  ]
+ ],
+ "bahaAPS": [
+  [
+   "BDArmoryExtended",
+   "srf, Size0",
+   [
+    "srf",
+    "Size0"
+   ]
+  ]
+ ],
+ "EHInimitz": [
+  [
+   "Eskandare_Heavy_Industries",
+   "Size3",
+   [
+    "Size3"
+   ]
+  ]
+ ],
+ "EHInimitzRadar": [
+  [
+   "Eskandare_Heavy_Industries",
+   "Size3",
+   [
+    "Size3"
+   ]
+  ]
+ ],
+ "KRXHeronEngine": [
+  [
+   "Eskandare_Heavy_Industries",
+   "surf",
+   [
+    "surf"
+   ]
+  ]
+ ],
+ "KRX_KingEngine": [
+  [
+   "Eskandare_Heavy_Industries",
+   "surf",
+   [
+    "surf"
+   ]
+  ]
+ ],
+ "carriermbow": [
+  [
+   "LShipParts",
+   "Size3",
+   [
+    "Size3"
+   ]
+  ]
+ ],
+ "carrierShortBow": [
+  [
+   "LShipParts",
+   "Size3",
+   [
+    "Size3"
+   ]
+  ]
+ ],
+ "CarrierLiftLong": [
+  [
+   "LShipParts",
+   "Size3",
+   [
+    "Size3"
+   ]
+  ]
+ ],
+ "mediumsternHangarLong": [
+  [
+   "LShipParts",
+   "Size3",
+   [
+    "Size3"
+   ]
+  ]
+ ],
+ "vetteTower2": [
+  [
+   "LShipParts",
+   "Size3",
+   [
+    "Size3"
+   ]
+  ]
+ ],
+ "vetteTower3lit": [
+  [
+   "LShipParts",
+   "Size3",
+   [
+    "Size3"
+   ]
+  ]
+ ],
+ "AAmount2": [
+  [
+   "LShipParts",
+   "Size3",
+   [
+    "Size3"
+   ]
+  ],
+  [
+   "SMI_FullSizedMarine",
+   "Size3",
+   [
+    "Size3"
+   ]
+  ]
+ ],
+ "M3X_Turbofan": [
+  [
+   "Mk3Expansion",
+   "size 2",
+   [
+    "size 2"
+   ]
+  ]
+ ],
+ "SPO_CommandCapsule": [
+  [
+   "Orion",
+   "size1.5, size1",
+   [
+    "size1.5",
+    "size1"
+   ]
+  ]
+ ],
+ "SPO_LargeMag": [
+  [
+   "Orion",
+   "size1.5, srf",
+   [
+    "size1.5",
+    "srf"
+   ]
+  ]
+ ],
+ "SPO_MedMag": [
+  [
+   "Orion",
+   "size1.5, srf",
+   [
+    "size1.5",
+    "srf"
+   ]
+  ]
+ ],
+ "SPO_SmallMag": [
+  [
+   "Orion",
+   "size1.5, srf",
+   [
+    "size1.5",
+    "srf"
+   ]
+  ]
+ ],
+ "SPO_LargeLFO": [
+  [
+   "Orion",
+   "size1.5, srf",
+   [
+    "size1.5",
+    "srf"
+   ]
+  ]
+ ],
+ "SPO_MediumLFO": [
+  [
+   "Orion",
+   "size1.5, srf",
+   [
+    "size1.5",
+    "srf"
+   ]
+  ]
+ ],
+ "SPO_SmallLFO": [
+  [
+   "Orion",
+   "size1.5, srf",
+   [
+    "size1.5",
+    "srf"
+   ]
+  ]
+ ],
+ "SPO_Med_RCS_Tank": [
+  [
+   "Orion",
+   "size1.5, srf",
+   [
+    "size1.5",
+    "srf"
+   ]
+  ]
+ ],
+ "SPO_Short_RCS_Tank": [
+  [
+   "Orion",
+   "size1.5, srf",
+   [
+    "size1.5",
+    "srf"
+   ]
+  ]
+ ],
+ "SPO_MetalContainer": [
+  [
+   "Orion",
+   "size1.5, srf",
+   [
+    "size1.5",
+    "srf"
+   ]
+  ]
+ ],
+ "SPO_MetalOreContainer": [
+  [
+   "Orion",
+   "size1.5, srf",
+   [
+    "size1.5",
+    "srf"
+   ]
+  ]
+ ],
+ "SPO_OreContainer": [
+  [
+   "Orion",
+   "size1.5, srf",
+   [
+    "size1.5",
+    "srf"
+   ]
+  ]
+ ],
+ "SPO_EnrichedUContainer": [
+  [
+   "Orion",
+   "size1.5, srf",
+   [
+    "size1.5",
+    "srf"
+   ]
+  ]
+ ],
+ "SPO_UraniniteContainer": [
+  [
+   "Orion",
+   "size1.5, srf",
+   [
+    "size1.5",
+    "srf"
+   ]
+  ]
+ ],
+ "SPO_Smelter": [
+  [
+   "Orion",
+   "size1.5",
+   [
+    "size1.5"
+   ]
+  ]
+ ],
+ "SPO_Adapter125_Std": [
+  [
+   "Orion",
+   "size1.5, size1",
+   [
+    "size1.5",
+    "size1"
+   ]
+  ]
+ ],
+ "SPO_Adapter125_Tall_Std": [
+  [
+   "Orion",
+   "size1.5, size1",
+   [
+    "size1.5",
+    "size1"
+   ]
+  ]
+ ],
+ "SPO_Adapter25_Std": [
+  [
+   "Orion",
+   "size1.5, size2",
+   [
+    "size1.5",
+    "size2"
+   ]
+  ]
+ ],
+ "SPO_Adapter25_Tall_Std": [
+  [
+   "Orion",
+   "size1.5, size2",
+   [
+    "size1.5",
+    "size2"
+   ]
+  ]
+ ],
+ "SPO_Adapter375_Std": [
+  [
+   "Orion",
+   "size1.5, size3",
+   [
+    "size1.5",
+    "size3"
+   ]
+  ]
+ ],
+ "SPO_Adapter375_Tall_Std": [
+  [
+   "Orion",
+   "size1.5, size3",
+   [
+    "size1.5",
+    "size3"
+   ]
+  ]
+ ],
+ "SPO_Adapter5_Std": [
+  [
+   "Orion",
+   "size1.5, size5",
+   [
+    "size1.5",
+    "size5"
+   ]
+  ]
+ ],
+ "SPO_size15Endcap": [
+  [
+   "Orion",
+   "size1.5",
+   [
+    "size1.5"
+   ]
+  ]
+ ],
+ "SPO_Adapter125": [
+  [
+   "Orion",
+   "size1.5, size1",
+   [
+    "size1.5",
+    "size1"
+   ]
+  ]
+ ],
+ "SPO_Adapter25": [
+  [
+   "Orion",
+   "size1.5, size2",
+   [
+    "size1.5",
+    "size2"
+   ]
+  ]
+ ],
+ "SPO_Adapter375": [
+  [
+   "Orion",
+   "size1.5, size3",
+   [
+    "size1.5",
+    "size3"
+   ]
+  ]
+ ],
+ "SPO_Adapter5": [
+  [
+   "Orion",
+   "size1.5, size3",
+   [
+    "size1.5",
+    "size3"
+   ]
+  ]
+ ],
+ "SPO_CrewedLab": [
+  [
+   "Orion",
+   "size1.5",
+   [
+    "size1.5"
+   ]
+  ]
+ ],
+ "SPO_CrewSpine_Short": [
+  [
+   "Orion",
+   "size1.5",
+   [
+    "size1.5"
+   ]
+  ]
+ ],
+ "SPO_375mHab": [
+  [
+   "Orion",
+   "size1.5",
+   [
+    "size1.5"
+   ]
+  ]
+ ],
+ "SPO_RadialCargoBay_Long": [
+  [
+   "Orion",
+   "size1.5",
+   [
+    "size1.5"
+   ]
+  ]
+ ],
+ "SPO_RadialCargoBay": [
+  [
+   "Orion",
+   "size1.5",
+   [
+    "size1.5"
+   ]
+  ]
+ ],
+ "BB41PartHull": [
+  [
+   "SMI_FullSizedMarine",
+   "Size3",
+   [
+    "Size3"
+   ]
+  ]
+ ],
+ "LizzyStern2": [
+  [
+   "SMI_FullSizedMarine",
+   "Size3",
+   [
+    "Size3"
+   ]
+  ]
+ ],
+ "LargeshipSuperstructureLSS1A": [
+  [
+   "SMI_FullSizedMarine",
+   "Size3",
+   [
+    "Size3"
+   ]
+  ]
+ ],
+ "LargeshipSuperstructureLSS1B": [
+  [
+   "SMI_FullSizedMarine",
+   "Size3",
+   [
+    "Size3"
+   ]
+  ]
+ ],
+ "LargeshipSuperstructureLSS1C": [
+  [
+   "SMI_FullSizedMarine",
+   "Size3",
+   [
+    "Size3"
+   ]
+  ]
+ ],
+ "LargeshipSuperstructureLSS1D": [
+  [
+   "SMI_FullSizedMarine",
+   "Size3",
+   [
+    "Size3"
+   ]
+  ]
+ ],
+ "LargeshipSuperstructureLSS1E": [
+  [
+   "SMI_FullSizedMarine",
+   "Size3",
+   [
+    "Size3"
+   ]
+  ]
+ ],
+ "LargeshipSuperstructureLSS1F": [
+  [
+   "SMI_FullSizedMarine",
+   "Size3",
+   [
+    "Size3"
+   ]
+  ]
+ ],
+ "LargeshipSuperstructureLSS1G": [
+  [
+   "SMI_FullSizedMarine",
+   "Size3",
+   [
+    "Size3"
+   ]
+  ]
+ ],
+ "LargeshipSuperstructureLSS1H": [
+  [
+   "SMI_FullSizedMarine",
+   "Size3",
+   [
+    "Size3"
+   ]
+  ]
+ ],
+ "LargeshipSuperstructureLSS1I": [
+  [
+   "SMI_FullSizedMarine",
+   "Size3",
+   [
+    "Size3"
+   ]
+  ]
+ ],
+ "LargeshipSuperstructureLSS1J": [
+  [
+   "SMI_FullSizedMarine",
+   "Size3",
+   [
+    "Size3"
+   ]
+  ]
+ ],
+ "LargeshipSuperstructureLSS1L": [
+  [
+   "SMI_FullSizedMarine",
+   "Size3",
+   [
+    "Size3"
+   ]
+  ]
+ ],
+ "LargeshipSuperstructureLSS1M": [
+  [
+   "SMI_FullSizedMarine",
+   "Size3",
+   [
+    "Size3"
+   ]
+  ]
+ ],
+ "LargeshipSuperstructureLSS1N": [
+  [
+   "SMI_FullSizedMarine",
+   "Size3",
+   [
+    "Size3"
+   ]
+  ]
+ ],
+ "LargeshipSuperstructureLSS1O": [
+  [
+   "SMI_FullSizedMarine",
+   "Size3",
+   [
+    "Size3"
+   ]
+  ]
+ ],
+ "LargeshipSuperstructureLSS1P": [
+  [
+   "SMI_FullSizedMarine",
+   "Size3",
+   [
+    "Size3"
+   ]
+  ]
+ ],
+ "LargeshipSuperstructureLSS1Q": [
+  [
+   "SMI_FullSizedMarine",
+   "Size3",
+   [
+    "Size3"
+   ]
+  ]
+ ],
+ "LargeshipSuperstructureLSS1R": [
+  [
+   "SMI_FullSizedMarine",
+   "Size3",
+   [
+    "Size3"
+   ]
+  ]
+ ],
+ "LargeshipSuperstructureLSS1S": [
+  [
+   "SMI_FullSizedMarine",
+   "Size3",
+   [
+    "Size3"
+   ]
+  ]
+ ],
+ "FST45superMid": [
+  [
+   "SMI_FullSizedMarine",
+   "Size3",
+   [
+    "Size3"
+   ]
+  ]
+ ],
+ "FST45SuperMidExt": [
+  [
+   "SMI_FullSizedMarine",
+   "Size3",
+   [
+    "Size3"
+   ]
+  ]
+ ],
+ "FSTT45SuperTorpedoAft": [
+  [
+   "SMI_FullSizedMarine",
+   "Size3",
+   [
+    "Size3"
+   ]
+  ]
+ ],
+ "FST45UpperFwdSuper": [
+  [
+   "SMI_FullSizedMarine",
+   "Size3",
+   [
+    "Size3"
+   ]
+  ]
+ ],
+ "UdaFWDSuperstructures": [
+  [
+   "SMI_FullSizedMarine",
+   "Size3",
+   [
+    "Size3"
+   ]
+  ]
+ ],
+ "UdaHeliHangar": [
+  [
+   "SMI_FullSizedMarine",
+   "Size3",
+   [
+    "Size3"
+   ]
+  ]
+ ],
+ "UdaMIdSuperstructures": [
+  [
+   "SMI_FullSizedMarine",
+   "Size3",
+   [
+    "Size3"
+   ]
+  ]
+ ],
+ "UdaMountsMasts": [
+  [
+   "SMI_FullSizedMarine",
+   "Size3",
+   [
+    "Size3"
+   ]
+  ]
+ ],
+ "UDAsuperA": [
+  [
+   "SMI_FullSizedMarine",
+   "Size3",
+   [
+    "Size3"
+   ]
+  ]
+ ],
+ "UDAsuperB": [
+  [
+   "SMI_FullSizedMarine",
+   "Size3",
+   [
+    "Size3"
+   ]
+  ]
+ ],
+ "UDAsuperC": [
+  [
+   "SMI_FullSizedMarine",
+   "Size3",
+   [
+    "Size3"
+   ]
+  ]
+ ],
+ "UDAsuperD": [
+  [
+   "SMI_FullSizedMarine",
+   "Size3",
+   [
+    "Size3"
+   ]
+  ]
+ ],
+ "UDAsuperE": [
+  [
+   "SMI_FullSizedMarine",
+   "Size3",
+   [
+    "Size3"
+   ]
+  ]
+ ],
+ "UDAsuperF": [
+  [
+   "SMI_FullSizedMarine",
+   "Size3",
+   [
+    "Size3"
+   ]
+  ]
+ ],
+ "UDAsuperG": [
+  [
+   "SMI_FullSizedMarine",
+   "Size3",
+   [
+    "Size3"
+   ]
+  ]
+ ],
+ "UDAsuperH": [
+  [
+   "SMI_FullSizedMarine",
+   "Size3",
+   [
+    "Size3"
+   ]
+  ]
+ ],
+ "UDAoverBridgeMount": [
+  [
+   "SMI_FullSizedMarine",
+   "Size3",
+   [
+    "Size3"
+   ]
+  ]
+ ],
+ "UDAFwdGunMount": [
+  [
+   "SMI_FullSizedMarine",
+   "Size3",
+   [
+    "Size3"
+   ]
+  ]
+ ],
+ "UDAbGunMount": [
+  [
+   "SMI_FullSizedMarine",
+   "Size3",
+   [
+    "Size3"
+   ]
+  ]
+ ],
+ "UDAfwdStacks": [
+  [
+   "SMI_FullSizedMarine",
+   "Size3",
+   [
+    "Size3"
+   ]
+  ]
+ ],
+ "UDArearStax": [
+  [
+   "SMI_FullSizedMarine",
+   "Size3",
+   [
+    "Size3"
+   ]
+  ]
+ ],
+ "UDAradarMountB": [
+  [
+   "SMI_FullSizedMarine",
+   "Size3",
+   [
+    "Size3"
+   ]
+  ]
+ ],
+ "UDAradarMountC": [
+  [
+   "SMI_FullSizedMarine",
+   "Size3",
+   [
+    "Size3"
+   ]
+  ]
+ ],
+ "UDAradarMountD": [
+  [
+   "SMI_FullSizedMarine",
+   "Size3",
+   [
+    "Size3"
+   ]
+  ]
+ ],
+ "UDAradarPlinth": [
+  [
+   "SMI_FullSizedMarine",
+   "Size3",
+   [
+    "Size3"
+   ]
+  ]
+ ],
+ "UdaSuperstructures": [
+  [
+   "SMI_FullSizedMarine",
+   "Size3",
+   [
+    "Size3"
+   ]
+  ]
+ ],
+ "ai_SuperStructureBridge": [
+  [
+   "TM5Marine",
+   "Size3",
+   [
+    "Size3"
+   ]
+  ]
+ ],
+ "ai_hanger": [
+  [
+   "TM5Marine",
+   "Size3",
+   [
+    "Size3"
+   ]
+  ]
+ ],
+ "ai_hullBow": [
+  [
+   "TM5Marine",
+   "Size3",
+   [
+    "Size3"
+   ]
+  ]
+ ],
+ "ai_hullLong": [
+  [
+   "TM5Marine",
+   "Size3",
+   [
+    "Size3"
+   ]
+  ]
+ ],
+ "ai_hullShort": [
+  [
+   "TM5Marine",
+   "Size3",
+   [
+    "Size3"
+   ]
+  ]
+ ],
+ "ai_hullShortVLs": [
+  [
+   "TM5Marine",
+   "Size3",
+   [
+    "Size3"
+   ]
+  ]
+ ],
+ "ai_hullShortVLSHalf": [
+  [
+   "TM5Marine",
+   "Size3",
+   [
+    "Size3"
+   ]
+  ]
+ ],
+ "ai_hullStern": [
+  [
+   "TM5Marine",
+   "Size3",
+   [
+    "Size3"
+   ]
+  ]
+ ],
+ "ai_mast": [
+  [
+   "TM5Marine",
+   "Size3",
+   [
+    "Size3"
+   ]
+  ]
+ ],
+ "ai_netting": [
+  [
+   "TM5Marine",
+   "Size3",
+   [
+    "Size3"
+   ]
+  ]
+ ],
+ "ai_railing": [
+  [
+   "TM5Marine",
+   "Size3",
+   [
+    "Size3"
+   ]
+  ]
+ ],
+ "ai_smokestack": [
+  [
+   "TM5Marine",
+   "Size3",
+   [
+    "Size3"
+   ]
+  ]
+ ],
+ "ai_SuperStructureBase": [
+  [
+   "TM5Marine",
+   "Size3",
+   [
+    "Size3"
+   ]
+  ]
+ ],
+ "ai_SuperStructureBaseHalf": [
+  [
+   "TM5Marine",
+   "Size3",
+   [
+    "Size3"
+   ]
+  ]
+ ],
+ "ai_SuperStructureBaseQuarter": [
+  [
+   "TM5Marine",
+   "Size3",
+   [
+    "Size3"
+   ]
+  ]
+ ],
+ "ai_SuperStructureEnd1": [
+  [
+   "TM5Marine",
+   "Size3",
+   [
+    "Size3"
+   ]
+  ]
+ ],
+ "ai_SuperStructureEnd1Quarter": [
+  [
+   "TM5Marine",
+   "Size3",
+   [
+    "Size3"
+   ]
+  ]
+ ],
+ "ai_SuperStructureEnd1Short": [
+  [
+   "TM5Marine",
+   "Size3",
+   [
+    "Size3"
+   ]
+  ]
+ ],
+ "ai_SuperStructureEnd2": [
+  [
+   "TM5Marine",
+   "Size3",
+   [
+    "Size3"
+   ]
+  ]
+ ],
+ "ai_SuperStructureEnd2Quarter": [
+  [
+   "TM5Marine",
+   "Size3",
+   [
+    "Size3"
+   ]
+  ]
+ ],
+ "ai_SuperStructureMiddle": [
+  [
+   "TM5Marine",
+   "Size3",
+   [
+    "Size3"
+   ]
+  ]
+ ],
+ "ai_SuperStructureMiddleHalf": [
+  [
+   "TM5Marine",
+   "Size3",
+   [
+    "Size3"
+   ]
+  ]
+ ],
+ "ai_SuperStructureMiddleQuarter": [
+  [
+   "TM5Marine",
+   "Size3",
+   [
+    "Size3"
+   ]
+  ]
+ ],
+ "ai_SuperStructureMiddleShort": [
+  [
+   "TM5Marine",
+   "Size3",
+   [
+    "Size3"
+   ]
+  ]
+ ]
+}
